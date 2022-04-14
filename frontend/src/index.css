@@ -9,12 +9,14 @@ h3 {
 
 .rating span {
     margin: 0.1rem;
+    font: italic 0.8em "Fira Sans", serif;
 }
+/* changing font of the text holding the currency/costs */
 .card-text:last-child {
     margin-bottom: 0;
-    font: italic 1.2em "Fira Sans", serif;
+    font: italic 0.8em "Fira Sans", serif;
 }
-
+/* making the cards holding the product images the same size */
 .card-img, .card-img-bottom, .card-img-top {
     width: 220px;
     height: 200px;
