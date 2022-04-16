@@ -3,6 +3,13 @@ main {
     min-height: 80vh;
 }
 
+.h1, h1 {
+    font-size: 2rem;
+    font-family: 'Playfair Display', serif;
+
+    font-family: 'Playfair Display SC', serif;
+  }
+
 h3 {
     padding: 1rem;
 }
